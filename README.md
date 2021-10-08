@@ -7,12 +7,12 @@ It is the flow of genetic information wirhin a biological system, which in this 
 
 The following are the building blocks of central dogma of molecular biology.    
 
-    * DNA  
-    * RNA
-    * mRNA
-    * DNA replication    
-    * Transcription    
-    * Translation    
+    * DNA - Deoxyribonucleic acid
+    * RNA - Ribonucleic acid
+    * mRNA - messenger Ribonucleic acid
+    * DNA replication - DNA to DNA    
+    * Transcription - DNA to RNA   
+    * Translation   - RNA to Protein
     
   
 ![](https://users.ugent.be/~avierstr/principles/cendog.gif)
