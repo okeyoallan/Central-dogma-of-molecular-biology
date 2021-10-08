@@ -1,6 +1,7 @@
 Synthesis of a protein from a molecule of an mRNA.    
 **Takes place in the ribosomes located in the cytoplasm of the cell .**    
 
+
 It takes place through the following steps;  
 
   1. Initiation, a ribosome bind on the mRNA, forms tranlation initiation complex. tRNA bearing methionine locates and bind the statrt codon 'AUG' corresponding to methionine to intitiate the process of protein synthesis.
