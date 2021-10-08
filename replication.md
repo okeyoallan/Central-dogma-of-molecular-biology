@@ -18,8 +18,8 @@ Requires the following;
 ![](https://cf.ppt-online.org/files1/slide/q/QCRHMlhvOSg1knb6Ypr0UoKzDANW82fPTFdZts9G7w/slide-12.jpg) 
 illustrates the ideal process of DNA replicaion process.   
 
-# Stages of DNA replication    
 
+# Stages of DNA replication    
 
  1. Unwinding
  2. Binding of primers
