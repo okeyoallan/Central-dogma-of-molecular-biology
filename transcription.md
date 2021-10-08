@@ -1,6 +1,8 @@
 Copying of the genetic code at a specific location from a DNA molecule.    
 
-**Not every DNA is a gene and not every gene is a DNA.**
+**Not every DNA is a gene and not every gene is a DNA.**    
+
+Takes place in the nucleus of cells
 
 *Below is an illustration of transcription process*    
 
