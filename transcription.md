@@ -17,7 +17,6 @@ The stages involved during transcription include;
   2. Elongation, addition of complimentary bases to the DNA strand.    
   3. Termination, RNA polymerase drops off upon reaching a terminator sequence.    
   Examples of terminator mechanisms include, Rho dependent and Rho independent, shown in prokaryotes
-
   
 ## Miscelineous     
 *post transcription modification*
