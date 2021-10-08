@@ -10,3 +10,6 @@
     * DNA replication    
     * Transcription    
     * Translation    
+    
+    
+![](https://users.ugent.be/~avierstr/principles/cendog.gif)
