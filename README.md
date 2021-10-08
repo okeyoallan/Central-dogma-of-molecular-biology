@@ -4,7 +4,9 @@
 **An overview of central dogma**
 
 
-    * DNA    
+    * DNA  
+    * RNA
+    * mRNA
     * DNA replication    
     * Transcription    
     * Translation    
