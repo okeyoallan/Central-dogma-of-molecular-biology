@@ -89,18 +89,18 @@ Asparagine or aspartic acid |asx | Z
 
 
 
-# Mutaion
-_It is the random alterations in the geetic material or the genetic sequence of an organism. 
-_They are the sole reason for genetic diversity
-_Could occur as a result of accidents during the normal chemical transactions of DNA, often during replication.   
-_ In addition, it might occur due to exposure to high-energy electromagnetic radiation such as UV radiations an X-rays, particle radiation or to highly reactive chemicals in the environment.    
-_ Mutations that occur solely in the body cells are classified as *Somatic mutations* and are often passed on to successive offprings during DNA replication.
+# Mutation
+_It is the random alterations in the geetic material or the genetic sequence of an organism.     
+_They are the sole reason for genetic diversity.    
+_Could occur as a result of accidents during the normal chemical transactions of DNA, often during replication.       
+_ In addition, it might occur due to exposure to high-energy electromagnetic radiation such as UV radiations an X-rays, particle radiation or to highly reactive chemicals in the environment.     
+_ Mutations that occur solely in the body cells are classified as *Somatic mutations* and are often passed on to successive offprings during DNA replication.    
 _ Mutations in the reproductive cells are classified as *Germline mutations* and are the common causes of severe genetic disorders in most organisms such as Cystic Fibrosis in human. They are inherited to offsprings whose entire germline cells are affected by or carry the mutation. 
 
 Mutations are broadly categorized into;     
      * Point mutation
      * Frameshift mutations 
-     * 
+     
 ## Types of mutation
  * Silent mutation, which are changes in the DNA (gene sequence) that do not result in the significant change in the resultatnt amino acid sequence, poses no effect.   
  *  Miscence mutation, causes changes in the codon resulting in a different amino acid, can result in the final protein being non functional. Commonly associated with diseases such as Sickle cell anaemie.
